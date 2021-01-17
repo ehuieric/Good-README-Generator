@@ -30,7 +30,7 @@ inquirer
     {
         type: 'input',
         name: 'Usage',
-        message: 'What is the instructions and examples for use?',
+        message: 'What are the instructions and examples for use?',
         default: false,
     },
 

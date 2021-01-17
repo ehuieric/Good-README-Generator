@@ -1,48 +1,24 @@
- 
-# readme [![Mozilla License](https://img.shields.io/badge/license-Mozilla-red)]()
+ # Good readme generator[![Mozilla License](https://img.shields.io/badge/license-Mozilla-red)]()
 
 ## Description:
 
-undefined
+This is a Readme generator app that ask questions about all the criteria for a good readme that contain table of content , see below . 
 
 ## Table of content:
 
 - [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credit](#credit)
-- [License](#license)
-- [Contributors](#contributors)
-- [Test](#test)
-- [Questions](#questions)
-## Installation:
+- [How it works](#how it works)
+- [Technology used](#Technology used)
 
-practice
 
-## Usage:
+## How it works 
 
-undefined
+This link will show you how the readme generator works
+https://drive.google.com/file/d/1sOateZPjsbkmiBdZeXwomQ6b7AYy6a1S/view
 
-## Credit:
+## Technology used
 
-undefined
-
-## License:
-
-Mozilla
-
-## Contributors:
-
-contribution allow
-
-## Test:
-
-undefined
-
-## Questions:
-
-[ehuieric](https://github.com/ehuieric)
-
-for any question contact me at ehui_eric@yahoo.fr
+* Javasript
+* Node.js
 
      
