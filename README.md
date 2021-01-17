@@ -1,5 +1,5 @@
  
-# f [![MIT License](https://img.shields.io/badge/license-MIT-green)]()
+# readme [![Mozilla License](https://img.shields.io/badge/license-Mozilla-red)]()
 
 ## Description:
 
@@ -17,7 +17,7 @@ undefined
 - [Questions](#questions)
 ## Installation:
 
-d
+practice
 
 ## Usage:
 
@@ -29,11 +29,11 @@ undefined
 
 ## License:
 
-MIT
+Mozilla
 
 ## Contributors:
 
-d
+contribution allow
 
 ## Test:
 
@@ -41,9 +41,7 @@ undefined
 
 ## Questions:
 
-[ericehui](https://github.com/ericehui)
-
-## Email:
+[ehuieric](https://github.com/ehuieric)
 
 for any question contact me at ehui_eric@yahoo.fr
 
